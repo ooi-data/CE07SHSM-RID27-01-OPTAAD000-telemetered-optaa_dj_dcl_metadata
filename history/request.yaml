@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_metadata
-last_request: '2021-12-06T23:48:36.761340Z'
+last_request: '2021-12-21T23:07:57.558540Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_metadata/main/history/response.json
 status: discontinued
